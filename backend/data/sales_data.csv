@@ -1,0 +1,6 @@
+order_id,product,region,sales,quantity,date
+1,Laptop,North,80000,2,2025-01-12
+2,Phone,South,30000,3,2025-01-15
+3,Tablet,East,20000,1,2025-01-20
+4,Laptop,West,85000,2,2025-02-01
+5,Phone,North,32000,4,2025-02-10
